@@ -34,7 +34,7 @@
   <table>
     <tr>
       <td align="center">
-        <a href="https://github.com/So-coder-ai/weather-app-pyqt5">
+        <a href="https://github.com/So-coder-ai/Python-Intermediate-Projects/blob/main/appweather_app.py">
           <b>🌦 Weather App</b>
         </a>
         <br>
@@ -48,7 +48,7 @@
         <sub>Low-cost radar system for drone detection</sub>
       </td>
       <td align="center">
-        <a href="https://github.com/So-coder-ai/dice-art-game">
+        <a href="https://github.com/So-coder-ai/Python-Intermediate-Projects/blob/main/diceGame.py">
           <b>🎲 Dice Art Game</b>
         </a>
         <br>
@@ -57,7 +57,7 @@
     </tr>
     <tr>
       <td align="center">
-        <a href="https://github.com/So-coder-ai/quantumcoin">
+        <a href="https://github.com/So-coder-ai/QC">
           <b>💰 QuantumCoin</b>
         </a>
         <br>
