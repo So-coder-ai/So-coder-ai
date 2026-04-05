@@ -1,4 +1,4 @@
-<h1 align="center">⚡ Synapse! / Shiv Narain</h1>
+<h1 align="center">⚡Hey its Shiv Narain</h1>
 
 <p align="center">
   <b>AI & Data Science Student | Builder | Automation Enthusiast</b>
