@@ -1,270 +1,162 @@
-<!-- Header Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,40:0d1b2a,80:0f3460,100:16213e&height=240&section=header&text=Shiv%20Narain&fontSize=54&fontColor=e2e8f0&animation=fadeIn&fontAlignY=36&desc=AI%20%2F%20ML%20Engineer%20%E2%80%94%20Backend%20Developer%20%E2%80%94%20Open-Source%20Builder&descSize=16&descAlignY=56&descColor=94a3b8" />
-</p>
+<div align="center">
 
-<!-- Social Badges -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/shiv-narain/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/Shiv_Narain/">
-    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat-square&logo=LeetCode&logoColor=black" />
-  </a>
-  <a href="https://github.com/So-coder-ai">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:shivnarainofficial24@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=8&section=header" />
 
-<!-- Visitor / LeetCode / Patent Badges -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=So-coder-ai&color=0f3460&style=flat-square&label=Profile+Views" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/LeetCode%20%E2%80%94%201451-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Patent%20Filed%20%E2%9C%85%20202611100633-10b981?style=flat-square" />
-</p>
+</div>
+
+<br/>
+
+<div align="center">
+
+<!-- Stylised name art via readme-typing with a large bold serif feel -->
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=900&size=82&duration=99999&pause=99999&color=000000&background=FFFFFF&center=true&vCenter=true&width=700&height=120&lines=Shiv+Narain." />
+
+</div>
+
+<br/>
+
+<!-- ─── BLACK PILL STAT + LINK BADGES ─── -->
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/So-coder-ai?style=flat-square&logo=star&logoColor=white&label=STARS&color=000000&labelColor=000000)](https://github.com/So-coder-ai?tab=repositories)
+[![Followers](https://img.shields.io/github/followers/So-coder-ai?style=flat-square&logo=github&logoColor=white&label=FOLLOWERS&color=000000&labelColor=000000)](https://github.com/So-coder-ai?tab=followers)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiv-narain/)
+[![LeetCode](https://img.shields.io/badge/LEETCODE%20·%201451-000000?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Shiv_Narain/)
+[![Gmail](https://img.shields.io/badge/GMAIL-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:shivnarainofficial24@gmail.com)
+[![Patent](https://img.shields.io/badge/PATENT%20FILED-000000?style=flat-square&logo=googledocs&logoColor=white)](https://github.com/So-coder-ai/Aquaculture)
+
+</div>
+
+<br/>
 
 ---
 
-```python
-#!/usr/bin/env python3
-# ────────────────────────────────────────────────────────────────────────────
-#  WHO AM I?
-# ────────────────────────────────────────────────────────────────────────────
+Hey, **I'm Shiv Narain!** I'm an AI & ML Engineering undergrad (Class of 2028) based in Lucknow, India, constantly chasing the intersection of clean code and real-world impact. I spend my days training ML models that actually ship to production, building fast and well-documented FastAPI backends, and exploring the ever-expanding world of LLMs, RAG pipelines, and AI agents.
 
-class ShivNarain:
-    """
-    AI / ML Engineer who ships production models and clean backend APIs.
-    Currently pursuing B.Tech CSE @ PSIT Kanpur (2024–2028).
-    """
-    location   = "Lucknow, Uttar Pradesh, India"
-    focus      = ["AI/ML Engineering", "LLMs & RAG", "FastAPI Backends", "DSA"]
-    patent     = "Aquaculture Health Predictor — App No. 20261100633 ✅"
-    open_to    = ["Internships", "Open-source collabs", "AI × IoT projects"]
-    currently  = "Building production-grade AI + backend systems 🚀"
+I'm a big believer in writing code that solves real problems — whether that's a patented aquaculture health predictor that monitors fish farms in real time, an AI-powered crypto trading bot with walk-forward backtesting, or a production-ready backend that handles auth, caching, and migrations like clockwork. When I'm not deep in development, you can usually find me grinding DSA on LeetCode, explaining my architecture decisions to a rubber duck, or negotiating with Docker to just build correctly on the first try.
 
-    def tech_philosophy(self) -> str:
-        return "Ship clean. Document well. Deploy fast. Keep learning."
-```
+<br/>
 
 ---
 
 ## ⚡ Tech Arsenal
 
-<table>
-<tr>
-<td valign="top" width="50%">
+**AI & Machine Learning**
+`Python` `Scikit-learn` `XGBoost` `Random Forest` `NumPy` `Pandas` `Matplotlib` `Seaborn`
 
-**🤖 AI & Machine Learning**
+**GenAI & LLMs**
+`LangChain` `OpenAI API` `RAG Pipelines` `Prompt Engineering` `NLP / Text Classification`
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3d7aab?style=flat-square)
+**Deep Learning**
+`PyTorch` `TensorFlow`
 
-**🧠 GenAI & LLMs**
+**Backend & APIs**
+`FastAPI` `Flask` `PostgreSQL` `Redis` `Docker` `SQLAlchemy` `Alembic` `JWT Auth` `Gunicorn`
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-6366f1?style=flat-square)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-0f172a?style=flat-square)
-![NLP](https://img.shields.io/badge/NLP%20%2F%20Text%20Classification-e11d48?style=flat-square)
+**Languages & Frameworks**
+`Java` `JavaScript` `C++` `React`
 
-**🔥 Deep Learning**
+**DevOps & Tools**
+`Git` `Linux` `Streamlit` `Arduino` `VS Code`
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-
-</td>
-<td valign="top" width="50%">
-
-**⚙️ Backend & APIs**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-cc0000?style=flat-square)
-![JWT Auth](https://img.shields.io/badge/JWT%20Auth-black?style=flat-square&logo=jsonwebtokens)
-
-**💻 Languages & Frameworks**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-**🔧 DevOps & Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-</td>
-</tr>
-</table>
+<br/>
 
 ---
 
-## 🔬 Work & Research
+## 🚀 Projects
 
-### 🐟 ML & Backend Developer — Aquaculture Health Predictor
-> **Patent Filed · Application No. 20261100633** &nbsp;·&nbsp; Sept 2025 – Jan 2026
+**[Aquaculture Health Predictor](https://github.com/So-coder-ai/Aquaculture)** `Patent Filed · App No. 20261100633` `Python`
 
-Trained **Random Forest, Gradient Boosting, and XGBoost** models achieving **91%+ accuracy** on aquaculture health datasets. Built backend prediction pipelines and a Streamlit dashboard with REST APIs for real-time monitoring. End-to-end: data preprocessing → feature engineering → model evaluation → deployment.
-
-`Python` `Scikit-learn` `XGBoost` `Pandas` `NumPy` `Streamlit` `REST APIs`
+ML pipeline with Random Forest, Gradient Boosting & XGBoost ensemble achieving **91%+ accuracy** on aquaculture health datasets. Streamlit monitoring dashboard + REST API for real-time predictions. End-to-end: preprocessing → feature engineering → evaluation → deployment.
 
 ---
 
-## 🚀 Featured Projects
+**[AlphaPlus — AI Crypto Trading Bot](https://github.com/So-coder-ai/AlphaPlus)** `Python` `Streamlit`
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ⚡ Production-Ready FastAPI Backend
-[![Repo](https://img.shields.io/badge/View%20Repo-0f3460?style=flat-square&logo=github)](https://github.com/So-coder-ai/Production-Ready-FastAPI-Backend)
-
-Enterprise-grade REST API with full production setup:
-- Versioned API design (`/api/v1`) with modular architecture
-- JWT authentication + secure bcrypt password hashing
-- PostgreSQL + SQLAlchemy ORM + Alembic migrations
-- Dockerised and deployed on Render via Gunicorn
-
-`FastAPI` `PostgreSQL` `Docker` `SQLAlchemy` `Pydantic` `Gunicorn`
-
-</td>
-<td width="50%" valign="top">
-
-### 🔗 URL Shortener API (sniurl)
-[![Repo](https://img.shields.io/badge/View%20Repo-0f3460?style=flat-square&logo=github)](https://github.com/So-coder-ai/sniurl)
-
-Scalable URL shortening service with:
-- **Redis caching** for sub-millisecond redirects
-- Click analytics and database query optimisation
-- Clean REST endpoint design + full Docker support
-
-`FastAPI` `Redis` `PostgreSQL` `Docker` `Uvicorn`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 Task Management API (NLP-Powered)
-[![Repo](https://img.shields.io/badge/View%20Repo-0f3460?style=flat-square&logo=github)](https://github.com/So-coder-ai)
-
-Smart API with NLP text classification for **auto-prioritisation** of tasks:
-- JWT auth, CRUD, pagination, filtering
-- Relational DB schema with Alembic migrations
-- Clean REST design following best practices
-
-`FastAPI` `NLP` `PostgreSQL` `SQLAlchemy` `Pydantic`
-
-</td>
-<td width="50%" valign="top">
-
-### 📡 ESP32 Radar — Drone Detection
-[![Repo](https://img.shields.io/badge/View%20Repo-0f3460?style=flat-square&logo=github)](https://github.com/So-coder-ai/esp32-radar-drone-detection)
-
-Low-cost embedded radar system for real-time drone detection using an ESP32 microcontroller with embedded signal processing and distance estimation.
-
-`C++` `Arduino` `ESP32` `Embedded Systems`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 Multi-Channel AI Support
-[![Repo](https://img.shields.io/badge/View%20Repo-0f3460?style=flat-square&logo=github)](https://github.com/So-coder-ai/Multi-Channel-Ai-support)
-
-Multi-channel AI-powered support system built with Java.
-
-`Java` `AI` `LLM Integration`
-
-</td>
-<td width="50%" valign="top">
-
-### 💰 QuantumCoin / 🔄 CouponSwap / 💳 Card Validator
-
-- **QuantumCoin** — Responsive frontend for a digital currency concept · `HTML` `CSS` `JS`
-- **CouponSwap Coins** — Web platform to exchange coupons for coins · `HTML` `CSS` `JS`
-- **Credit Card Validator** — Luhn algorithm implementation · `Python`
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <a href="https://github.com/So-coder-ai?tab=repositories">
-    <img src="https://img.shields.io/badge/%E2%86%92%20See%20All%2027%20Repositories%20on%20GitHub-0f3460?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+Production-grade ML trading system on Binance Futures. Random Forest classifier trained on 14 technical indicators, walk-forward backtesting with Sharpe & Sortino metrics, a full risk management layer, and an interactive live signal dashboard.
 
 ---
 
-## 🏆 Achievements & Certifications
+**[Production-Ready FastAPI Backend](https://github.com/So-coder-ai/Production-Ready-FastAPI-Backend)** `FastAPI` `Docker` `PostgreSQL`
 
-| | Achievement | Details |
-|---|---|---|
-| 📜 | **Patent Filed** | Aquaculture Health Predictor — App No. 20261100633 |
-| ☁️ | **Oracle Certified** | OCI 2025 AI Foundations Associate |
-| 💼 | **Goldman Sachs** | Software Engineering Job Simulation |
-| 🧩 | **LeetCode Rating: 1451** | Active DSA competitive programmer |
+Enterprise-grade REST API — versioned `/api/v1` design, JWT auth + bcrypt hashing, PostgreSQL + SQLAlchemy ORM, Alembic migrations, Dockerised and deployed on Render via Gunicorn.
 
 ---
 
-## 📊 GitHub Activity
+**[sniurl — URL Shortener API](https://github.com/So-coder-ai/sniurl)** `JavaScript` `Redis` `Docker`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=So-coder-ai&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=60a5fa&text_color=94a3b8&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=So-coder-ai&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3b82f6&text_color=94a3b8" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=So-coder-ai&theme=github-dark-blue&hide_border=true&background=0d1117&ring=3b82f6&fire=60a5fa&currStreakLabel=60a5fa&sideLabels=94a3b8&dates=647488" width="60%" />
-</p>
+Scalable URL shortening service with Redis caching for sub-millisecond redirects, click analytics, optimised DB queries, and clean REST endpoint design with full Docker support.
 
 ---
 
-## 📬 Let's Connect
+**[Anydoc](https://github.com/So-coder-ai/Anydoc)** `Python` `NLP`
 
-Open to **internships, research collaborations, and building things** at the crossroads of **AI, backend systems, and IoT**.
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/shiv-narain/">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:shivnarainofficial24@gmail.com">
-    <img src="https://img.shields.io/badge/Drop%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://leetcode.com/u/Shiv_Narain/">
-    <img src="https://img.shields.io/badge/Challenge%20Me-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-</p>
+Intelligent document processing tool — parse, extract, and analyse any document type with a clean Python API interface. Built for speed and flexibility across PDFs, reports, and structured files.
 
 ---
 
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:0f3460,100:0a0a0f&height=130&section=footer" />
-</p>
+**[halloween-shopping-web](https://github.com/So-coder-ai/halloween-shopping-web)** `HTML` `CSS` `JavaScript`
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=800&color=3b82f6&center=true&vCenter=true&width=640&lines=Building+AI+that+solves+real+problems+%F0%9F%A4%96;Shipping+clean+backend+APIs+%E2%9A%A1;Patent+holder+%7C+ML+researcher+%7C+Open-source+contributor;Always+learning.+Always+shipping.+%F0%9F%9A%80" />
-</p>
+Themed responsive e-commerce frontend with dynamic product listings, cart logic, and smooth CSS animations — clean UI/UX engineering from scratch.
 
-<p align="center">⭐ From <a href="https://github.com/So-coder-ai">So-coder-ai</a> — Built with intent, shipped with precision.</p>
+<br/>
+
+[![View All Repositories →](https://img.shields.io/badge/View%20All%2027%20Repositories%20→-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/So-coder-ai?tab=repositories)
+
+<br/>
+
+---
+
+## 🏆 Achievements
+
+| | |
+|---|---|
+| 📜 **Patent Filed** | Aquaculture Health Predictor — App No. 20261100633 |
+| ☁️ **Oracle Certified** | OCI 2025 AI Foundations Associate |
+| 💼 **Goldman Sachs** | Software Engineering Job Simulation |
+| 🧩 **LeetCode 1451** | Active DSA competitive programmer |
+
+<br/>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=So-coder-ai&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&icon_color=000000&text_color=333333&include_all_commits=true&count_private=true&rank_icon=github" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=So-coder-ai&layout=compact&hide_border=true&bg_color=ffffff&title_color=000000&text_color=333333&langs_count=8" width="41%" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=So-coder-ai&hide_border=true&background=ffffff&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=333333&dates=666666&sideNums=000000&currStreakNum=000000&stroke=000000" width="60%" />
+
+</div>
+
+<br/>
+
+---
+
+## 📬 Connect
+
+Open to **internships**, **research collaborations**, and **building things** at the crossroads of AI, backend systems, and IoT.
+
+[![LinkedIn](https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiv-narain/)
+[![Gmail](https://img.shields.io/badge/DROP%20A%20MAIL-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivnarainofficial24@gmail.com)
+[![LeetCode](https://img.shields.io/badge/CHALLENGE%20ME-000000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Shiv_Narain/)
+
+<br/>
+
+---
+
+<div align="center">
+
+<sub>⭐ From <a href="https://github.com/So-coder-ai">So-coder-ai</a> — Built with intent, shipped with precision.</sub>
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=8&section=footer" />
+</div>
