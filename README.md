@@ -17,7 +17,7 @@
   <a href="mailto:shivnarainofficial24@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://drive.google.com/file/d/1nElVpZxYtYC9vkA1bZ_RK8kHdpthQm5c/view">
+  <a href="https://drive.google.com/file/d/1j_ZfYOVXQV9yJ9lovnXX7v8jgonO9hg8/view?usp=drive_link">
     <img src="https://img.shields.io/badge/RESUME-000000?style=for-the-badge&logo=readthedocs&logoColor=white" />
   </a>
 </p>
