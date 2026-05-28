@@ -39,7 +39,10 @@
 ```diff
 + AI & Data Science Student 🇮🇳
 + Building real-world AI systems, automation tools, and scalable apps
+<<<<<<< HEAD
 ```
 
 ---
 
+=======
+>>>>>>> origin/main
