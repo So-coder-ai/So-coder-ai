@@ -49,13 +49,12 @@
 
 ## 📊 GitHub Stats
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=So-coder-ai&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa&include_all_commits=true&count_private=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=So-coder-ai&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&langs_count=8" width="41%" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=So-coder-ai&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=So-coder-ai&layout=compact&theme=dark&hide_border=true"/>
 </p>
 
----
-
 <p align="center">
-  <sub>⭐ <a href="https://github.com/So-coder-ai">So-coder-ai</a> — Built with intent, shipped with precision.</sub>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=So-coder-ai&theme=github-dark" />
 </p>
